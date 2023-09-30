@@ -1,0 +1,44 @@
+[
+    {
+        "titulo": "1",
+        "descripcion": "Titulo academico",
+        "completada": false,
+        "fecha_vencimiento": "2023-11-24"
+    },
+    {
+        "titulo": "2",
+        "descripcion": "escuchar a beto.",
+        "completada": false,
+        "fecha_vencimiento": "2023-06-14"
+    },
+    {
+        "titulo": "2",
+        "descripcion": "escuchar a beto.",
+        "completada": false,
+        "fecha_vencimiento": "2023-06-14"
+    },
+    {
+        "titulo": "15",
+        "descripcion": "15",
+        "completada": false,
+        "fecha_vencimiento": "2023-10-25"
+    },
+    {
+        "titulo": "15",
+        "descripcion": "15",
+        "completada": false,
+        "fecha_vencimiento": "2023-10-25"
+    },
+    {
+        "titulo": "4",
+        "descripcion": "4",
+        "completada": false,
+        "fecha_vencimiento": "4"
+    },
+    {
+        "titulo": "DORMIR",
+        "descripcion": "QUIERO DORMIR MAS HORAS",
+        "completada": false,
+        "fecha_vencimiento": "2023-09-29"
+    }
+]

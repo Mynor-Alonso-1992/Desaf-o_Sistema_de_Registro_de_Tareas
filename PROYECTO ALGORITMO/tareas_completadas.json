@@ -1,0 +1,26 @@
+[
+    {
+        "titulo": "Logica en sistemas",
+        "descripcion": "hacer tarea",
+        "completada": true,
+        "fecha_vencimiento": "22023-09-29"
+    },
+    {
+        "titulo": "COMER SALUDABLE",
+        "descripcion": "TRATAR DE COMER BIEN",
+        "completada": true,
+        "fecha_vencimiento": "2023-09-29"
+    },
+    {
+        "titulo": "Hola creida",
+        "descripcion": "receta",
+        "completada": true,
+        "fecha_vencimiento": "2023-02-11"
+    },
+    {
+        "titulo": "1",
+        "descripcion": "Titulo academico",
+        "completada": true,
+        "fecha_vencimiento": "2023-11-24"
+    }
+]
